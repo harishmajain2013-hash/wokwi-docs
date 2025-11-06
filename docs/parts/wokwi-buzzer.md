@@ -3,7 +3,7 @@ title: wokwi-buzzer Reference
 sidebar_label: wokwi-buzzer
 ---
 
-A piezoelectric buzzer
+A piezoel
 
 <wokwi-buzzer />
 
